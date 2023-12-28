@@ -1,6 +1,10 @@
 ![](https://miro.medium.com/v2/resize:fit:1400/1*xlCyGCKz8Wxws7gP_XcjnQ.png)
+![dotenv 0.20.0](https://img.shields.io/badge/dotenv-0.20.0-brightgreen?style=flat)
+![Streamlit 1.10.0](https://img.shields.io/badge/Streamlit-1.10.0-blue?style=flat)
+![Google API](https://img.shields.io/badge/Google_API-latest-yellow?style=flat)
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python&logoColor=white)
+
 # Tweet Classifier Using Gemini LLM
-![image](https://github.com/abh2050/tweetclassifiy/blob/main/pic.png)
 This Streamlit application classifies tweets as 'Non-Spam' or 'Spam' using the Gemini LLM API.
 
 ## Features
@@ -18,7 +22,7 @@ This Streamlit application classifies tweets as 'Non-Spam' or 'Spam' using the G
 4. Run the application using `streamlit run tweet_classifier.py`.
 
 ## Deployment
-
+![image](https://github.com/abh2050/tweetclassifiy/blob/main/pic.png)
 The application is deployed at [Tweet Classifier](https://tweetclassifiy.streamlit.app/).
 
 ## Requirements
