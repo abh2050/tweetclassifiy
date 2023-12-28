@@ -1,6 +1,6 @@
 ![](https://miro.medium.com/v2/resize:fit:1400/1*xlCyGCKz8Wxws7gP_XcjnQ.png)
 # Tweet Classifier Using Gemini LLM
-
+![image](https://github.com/abh2050/tweetclassifiy/blob/main/pic.png)
 This Streamlit application classifies tweets as 'Non-Spam' or 'Spam' using the Gemini LLM API.
 
 ## Features
